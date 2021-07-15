@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\assets",
+    "\\src\\assets\\vendor",
+    "\\src\\assets\\vendor\\font-awesome\\fonts",
+    "\\src\\assets\\vendor\\nucleo",
+    "\\src\\assets\\vendor\\nucleo\\fonts",
+    "\\src\\Pages\\admin",
+    "\\src\\Pages\\_shared",
+    "\\src\\store\\modules"
+  ],
+  "SelectedNode": "\\src\\assets\\vendor\\font-awesome",
+  "PreviewInSolutionExplorer": false
+}
